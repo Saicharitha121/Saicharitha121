@@ -8,7 +8,7 @@ I am passionate about transforming data into actionable insights by applying my 
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [saicharitha121@gmail.com](mailto:saicharitha121@gmail.com)
-* 🧠  I'm learning OpenCV
+* 🧠  I'm learning Data Engineering Concepts
 * 🤝  I'm open to collaborating on Data Science Projects
 
 ### Skills
